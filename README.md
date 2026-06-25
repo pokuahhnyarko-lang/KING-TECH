@@ -20,4 +20,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=KINGSLEY-XD;MR+KINGSLEY+TECH;THANKS+FOR+USING" alt="Typing SVG" /></a>
 </p>
 
-|SESSION 🆔| [![GET SESSION ID](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://kingsley-pair-1.onrender.com/) |
+ [![GET SESSION ID](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://kingsley-pair-1.onrender.com/)
