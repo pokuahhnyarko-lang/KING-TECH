@@ -1,0 +1,43 @@
+{
+  "name": "kingsley-xd",
+  "version": "2.1.1",
+  "description": "KINGSLEY XD - Advanced WhatsApp Bot",
+  "website": "https://gemini-king--kingsleyxmdcaro.replit.app/",
+  "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
+  "keywords": ["kingsley-xd", "whatsapp-bot"],
+  "repository": "https://github.com/pokuahhnyarko-lang/KING_BLESS_MD_BOT",
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "BOT_NAME": {
+      "description": "Your Bot Name",
+      "required": true,
+      "value": "KINGSLEY XD"
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "KINGSLEY XD"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": true,
+      "value": "233535502036"
+    },
+    "SESSION_ID": {
+      "description": "Put your session-id here. Must Start with 'kingcaro~'",
+      "required": false,
+      "value": ""
+    },
+    "MODE": {
+      "description": "Set Mode to 'public' to work in all chats, 'private' to work for you only",
+      "required": true,
+      "value": "public"
+    },
+    "TIMEZONE": {
+      "description": "Set your timezone",
+      "required": true,
+      "value": "Africa/Ghana"
+    }
+  }
+}

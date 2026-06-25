@@ -1,0 +1,31 @@
+
+{
+"bot-name": "KING-TECH",
+  "description": "JAVASCRIPT BOT CREATED BY KINGSLEY-XD",
+  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://github.com/pokuahhnyarko-lang/KING_BLESS_MD_BOT",
+    "owner-verification":"pokuahnyarko@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with Kingsley~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": "263714757857"
+      
+       },
+      "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Africa/Accra"
+
+    }  
+  }
+}
